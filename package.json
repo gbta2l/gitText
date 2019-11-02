@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "luochounan哈哈哈嗯 dev分支",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbta2l/gitText.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbta2l/gitText/issues"
+  },
+  "homepage": "https://github.com/gbta2l/gitText#readme"
+}
